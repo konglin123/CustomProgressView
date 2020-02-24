@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="cpv_background_color" format="color|integer"/>
+        <attr name="cpv_progress_color" format="color|integer"/>
+        <attr name="cpv_border_width" format="dimension"/>
+        <attr name="cpv_text_color" format="color|integer"/>
+        <attr name="cpv_text_size" format="dimension"/>
+        <attr name="cpv_background_isstroke" format="boolean"/>
+        <attr name="cpv_rect_round" format="dimension"/>
+    </declare-styleable>
+</resources>
